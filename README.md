@@ -141,6 +141,18 @@ Full-stack inventory and prescription management system
 - REST APIs
 
 ---
+---
+
+#  Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/A-EDev/A-EDev/output/github-snake.svg"
+    alt="Animated GitHub contribution snake"
+  />
+</p>
+
+---
 
 #  GitHub Streak
 

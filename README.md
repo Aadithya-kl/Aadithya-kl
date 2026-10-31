@@ -37,9 +37,7 @@
 
  Learning Kali Linux, Penetration Testing, Security Operations, and Threat Detection
 
- President of the Photography Club at Sai University
-
- Active Hackathon Participant and Builder
+ Ex President of the Photography Club at Sai University
 
  Currently Learning:
 

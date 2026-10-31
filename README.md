@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+Developer;FastAPI+Backend+Developer;Future+Security+Engineer;Building+Secure+Intelligent+Systems" />
 </p>
 
-<p align="center">
-  <img src="./hacker-duck.gif" width="220">
-</p>
-
 <h3 align="center">
  Cybersecurity Enthusiast •  AI Developer •  Backend Engineer
 </h3>

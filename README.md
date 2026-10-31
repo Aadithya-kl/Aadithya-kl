@@ -141,26 +141,25 @@ Full-stack inventory and prescription management system
 - REST APIs
 
 ---
+
+#  GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadithya-kl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
 ---
 
 #  Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/A-EDev/A-EDev/output/github-snake.svg"
-    alt="Animated GitHub contribution snake"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadithya-kl/Aadithya-kl/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadithya-kl/Aadithya-kl/output/github-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Aadithya-kl/Aadithya-kl/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
----
-
-#  GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadithya-kl&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 
 #  2026 Goals

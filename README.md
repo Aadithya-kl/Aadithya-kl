@@ -142,15 +142,6 @@ Full-stack inventory and prescription management system
 
 ---
 
-#  GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadithya-kl&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithya-kl&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 #  GitHub Streak
 
 <p align="center">
@@ -159,13 +150,6 @@ Full-stack inventory and prescription management system
 
 ---
 
-#  Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadithya-kl&theme=tokyo-night"/>
-</p>
-
----
 
 #  2026 Goals
 

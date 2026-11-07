@@ -141,7 +141,7 @@ Full-stack inventory and prescription management system
 #  GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadithya-kl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aadithya-kl&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub contribution streak" />
 </p>
 
 ---
